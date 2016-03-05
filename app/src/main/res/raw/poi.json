@@ -1,0 +1,308 @@
+{ "poi": [
+  {
+    "name": "โรงพยาบาลมหาวิทยาลัยเทคโนลยีสุรนารี",
+    "location": [14.863995, 102.035668],
+    "img": "drawable/hospital_new"
+  },
+  {
+    "name": "หอดูดาวเฉลิมพระเกียรติ 7 รอบพระชนมพรรษา",
+    "location": [14.874139, 102.028146],
+    "img": "drawable/hordodow"
+  },
+  {
+    "name": "แอมฟิเธียเตอร์",
+    "location": [14.871832, 102.024500],
+    "img": "drawable/amphi_new"
+  },
+  {
+    "name": "พิพิธภัณฑ์เทคโนโลยีไทยโบราณ",
+    "location": [14.871031, 102.023625],
+    "img": "drawable/thaiboran"
+  },
+  {
+    "name": "สถาบันวิจัยแสงซินโครตรอน (องค์การมหาชน)",
+    "location": [14.873409, 102.021830],
+    "img": "drawable/sincrotron"
+  },
+  {
+    "name": "เทคโนธานี",
+    "location": [14.8740086,102.0219099],
+    "img": "drawable/technothanee"
+  },
+  {
+    "name": "ศูนย์หนังสือจุฬา",
+    "location": [14.876510, 102.022400],
+    "img": "drawable/technothanee"
+  },
+  {
+    "name": "สุรสัมนาคาร",
+    "location": [14.876265, 102.023974],
+    "img": "drawable/surasam"
+  },
+  {
+    "name": "สถานีขนส่งผู้โดยสาร",
+    "location": [14.877955, 102.021471],
+    "img": "drawable/bks"
+  },
+  {
+    "name": "โรงอาหารกลาง",
+    "location": [14.876830, 102.020204],
+    "img": "drawable/rongarharn"
+  },
+  {
+    "name": "อาคารเรียนรวม 1",
+    "location": [14.880993, 102.017113],
+    "img": "drawable/reanruam"
+  },
+  {
+    "name": "ศูนย์สหกิจศึกษาและพัฒนาอาชีพ",
+    "location": [14.881446, 102.015520],
+    "img": "drawable/coop"
+  },
+  {
+    "name": "อาคารเรียนรวม 2",
+    "location": [14.881849, 102.014941],
+    "img": "drawable/reanruam"
+  },
+  {
+    "name": "ศูนย์บรรณสารและสื่อการศึกษา",
+    "location": [14.878869, 102.016277],
+    "img": "drawable/bannasarn"
+  },
+  {
+    "name": "อาคารสุรเริงไชย สถานกีฬาเพื่อสุขภาพ",
+    "location": [14.886785, 102.018496],
+    "img": "drawable/surarerng"
+  },
+  {
+    "name": "ส่วนกิจการนักศึกษา",
+    "location": [14.884667, 102.015616],
+    "img": "drawable/suankit"
+  },
+  {
+    "name": "โรงอาหารดอนตะวัน",
+    "location": [14.891386, 102.017767],
+    "img": "drawable/rongarharn"
+  },
+  {
+    "name": "หอพักสุรนิเวศ 15 โซนล่าง",
+    "location": [14.891824, 102.018477],
+    "img": "drawable/suranives"
+  },
+  {
+    "name": "หอพักสุรนิเวศ 15 โซนบน",
+    "location": [14.891208, 102.019218],
+    "img": "drawable/suranives"
+  },
+  {
+    "name": "อาดารสุรพลากรีฑาสถาน",
+    "location": [14.887744, 102.016329],
+    "img": "drawable/keela"
+  },
+  {
+    "name": "สถานกีฬาและสุขภาพ",
+    "location": [14.886828, 102.015275],
+    "img": "drawable/keela"
+  },
+  {
+    "name": "สนามแบตมินตัน",
+    "location": [14.886258, 102.015460],
+    "img": "drawable/keela"
+  },
+  {
+    "name": "สนามตระกร้อ",
+    "location": [14.887444, 102.015150],
+    "img": "drawable/keela"
+  },
+  {
+    "name": "สนามเทนนิส",
+    "location": [14.890230, 102.013831],
+    "img": "drawable/keela"
+  },
+  {
+    "name": "อาคาร 80 พรรษา",
+    "location": [14.893366, 102.014823],
+    "img": "drawable/pansa"
+  },
+  {
+    "name": "หอพักสุรนิเวศ 16",
+    "location": [14.892609, 102.014245],
+    "img": "drawable/suranives"
+  },
+  {
+    "name": "โรงอาหารกาสะลองคำ (ศาลาลอย)",
+    "location": [14.896654, 102.012804],
+    "img": "drawable/rongarharn"
+  },
+  {
+    "name": "หอพักสุรนิเวศ 11",
+    "location": [14.898406, 102.010751],
+    "img": "drawable/suranives"
+  },
+  {
+    "name": "มาร์ทชาย",
+    "location": [14.897927, 102.010814],
+    "img": "drawable/mart"
+  },
+  {
+    "name": "หอพักสุรนิเวศ 12",
+    "location": [14.897821, 102.010215],
+    "img": "drawable/suranives"
+  },
+  {
+    "name": "หอพักสุรนิเวศ 7",
+    "location": [14.896896, 102.011680],
+    "img": "drawable/suranives"
+  },
+  {
+    "name": "หอพักสุรนิเวศ 8",
+    "location": [14.896407, 102.010954],
+    "img": "drawable/suranives"
+  },
+  {
+    "name": "หอพักสุรนิเวศ 9",
+    "location": [14.896379, 102.010139],
+    "img": "drawable/suranives"
+  },
+  {
+    "name": "หอพักสุรนิเวศ 10",
+    "location": [14.895857, 102.009705],
+    "img": "drawable/suranives"
+  },
+  {
+    "name": "หอพักสุรนิเวศ 13 โซนล่าง",
+    "location": [14.899809, 102.011480],
+    "img": "drawable/suranives"
+  },
+  {
+    "name": "หอพักสุรนิเวศ 13 โซนบน",
+    "location": [14.898911, 102.012702],
+    "img": "drawable/suranives"
+  },
+  {
+    "name": "หอพักสุรนิเวศ 1",
+    "location": [14.895241, 102.015371],
+    "img": "drawable/suranives"
+  },
+  {
+    "name": "หอพักสุรนิเวศ 2",
+    "location": [14.896069, 102.014798],
+    "img": "drawable/suranives"
+  },
+  {
+    "name": "หอพักสุรนิเวศ 3",
+    "location": [14.896234, 102.014235],
+    "img": "drawable/suranives"
+  },
+  {
+    "name": "หอพักสุรนิเวศ 4",
+    "location": [14.896973, 102.013593],
+    "img": "drawable/suranives"
+  },
+  {
+    "name": "หอพักสุรนิเวศ 5",
+    "location": [14.897664, 102.013652],
+    "img": "drawable/suranives"
+  },
+  {
+    "name": "หอพักสุรนิเวศ 6",
+    "location": [14.898008, 102.014105],
+    "img": "drawable/suranives"
+  },
+  {
+    "name": "มาร์ทหญิง",
+    "location": [14.897133, 102.015267],
+    "img": "drawable/mart"
+  },
+  {
+    "name": "หอพักสุรนิเวศ 14",
+    "location": [14.896654, 102.015797],
+    "img": "drawable/suranives"
+  },
+  {
+    "name": "ลานสัญลักษณ์",
+    "location": [14.880396, 102.018547],
+    "img": "drawable/larnsanyalux"
+  },
+  {
+    "name": "ฟาร์มมหาวิทยาลัย",
+    "location": [14.889880, 102.004937],
+    "img": "drawable/farm_new"
+  },
+  {
+    "name": "ศูนย์วิจัยมันสัมปะหลัง",
+    "location": [14.874458, 102.019849],
+    "img": "drawable/soonvijaimun"
+  },
+  {
+    "name": "อาคารเครื่องมือ 6",
+    "location": [14.875447, 102.017640],
+    "img": "drawable/f1_6"
+  },
+  {
+    "name": "อาคารเครื่องมือ 3",
+    "location": [14.876232, 102.018786],
+    "img": "drawable/f1_6"
+  },
+  {
+    "name": "อาคารเครื่องมือ 5",
+    "location": [14.876385, 102.016986],
+    "img": "drawable/f1_6"
+  },
+  {
+    "name": "อาคารเครื่องมือ 2",
+    "location": [14.877107, 102.018095],
+    "img": "drawable/f1_6"
+  },
+  {
+    "name": "อาคารเครื่องมือ 4",
+    "location": [14.877264, 102.016408],
+    "img": "drawable/f1_6"
+  },
+  {
+    "name": "อาคารเครื่องมือ 1",
+    "location": [14.878048, 102.017517],
+    "img": "drawable/f1_6"
+  },
+  {
+    "name": "อาคารกาญจนาภิเษก",
+    "location": [14.873136, 102.026421],
+    "img": "drawable/karnjana"
+  },
+  {
+    "name": "หอสุรนภา",
+    "location": [14.872974, 102.023719],
+    "img": "drawable/horhaew"
+  },
+  {
+    "name": "อาคารเครื่องมือ 9",
+    "location": [14.874750, 102.016327],
+    "img": "drawable/f9"
+  },
+  {
+    "name": "อาคารเครื่องมือ 7",
+    "location": [14.874864, 102.021262],
+    "img": "drawable/f7_new"
+  },
+  {
+    "name": "อาคารวิชาการ 1",
+    "location": [14.879013,102.0181991],
+    "img": "drawable/wichakarn1"
+  },
+  {
+    "name": "อาคารวิชาการ 2",
+    "location": [14.879394, 102.019822],
+    "img": "drawable/wichakarn2"
+  },
+  {
+    "name": "อาคารบริหาร",
+    "location": [14.880496, 102.021015],
+    "img": "drawable/briharn"
+  },
+  {
+    "name": "ศูนย์คอมพิวเตอร์",
+    "location": [14.877877, 102.019444],
+    "img": "drawable/sooncom"
+  }
+]
+}

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sudsangdoaw.sutvirtour">
+
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality. 
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/. 
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".MapsActivity"
+            android:label="@string/title_activity_maps" />
+        <!-- <activity android:name=".Cogfig" /> -->
+        <activity android:name=".Main2Activity" />
+        <!--
+             ATTENTION: This was auto-generated to add Google Play services to your project for
+             App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity android:name=".Video_one" />
+        <activity android:name=".F3_Video" />
+        <activity android:name=".F4_Video" />
+        <activity android:name=".F5_Video" />
+        <activity android:name=".F6_Video" />
+        <activity android:name=".Library" />
+        <activity android:name=".Study_Building1" />
+        <activity android:name=".Student_Activity" />
+        <activity android:name=".Sura_Sport" />
+        <activity android:name=".Sport_center" />
+        <activity
+            android:name=".Index"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Information" />
+        <activity
+            android:name=".Intro_Video"
+            android:screenOrientation="landscape" />
+        <activity android:name=".Slide" />
+        <activity
+            android:name=".Map_Direction"
+            android:label="@string/title_activity_map__direction" />
+        <activity android:name=".Farm_Video" />
+        <activity android:name=".Suranapa_Video" />
+        <activity android:name=".Hospital_Video" />
+        <activity android:name=".Yamo_Video" />
+        <activity android:name=".Activity_Welcome" />
+        <activity android:name=".CameraActivity">
+
+            <!-- Default Intent Filter -->
+            <intent-filter>
+                <action android:name="android.intent.action.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Building2" />
+        <activity android:name=".Flag" />
+        <activity android:name=".Building_C" />
+        <activity android:name=".Building_A" />
+        <activity android:name=".Hotel" />
+        <activity android:name=".Transport"></activity>
+    </application>
+
+</manifest>
